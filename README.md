@@ -6,6 +6,7 @@ My build of [st](https://st.suckless.org/) the simple terminal implementation fo
 
 * [font2](https://st.suckless.org/patches/font2/)
 * [glyph wide support](https://st.suckless.org/patches/glyph_wide_support/)
+* [scrollback](https://st.suckless.org/patches/scrollback/)
 
 ## Installation
 ```
