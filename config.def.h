@@ -5,10 +5,10 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=14:antialias=true:autohint=true";
+static char *font = "Hack Nerd Font:size=14:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Symbols Nerd Font Mono:pixelsize=10:antialias=true:autohint=true"
+	/* "Symbols Nerd Font Mono:pixelsize=10:antialias=true:autohint=true" */
 };
 
 static int borderpx = 8;
