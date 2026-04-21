@@ -5,6 +5,7 @@ My build of [st](https://st.suckless.org/) the simple terminal implementation fo
 ## Patches
 
 - [scrollback](https://st.suckless.org/patches/scrollback/)
+- [desktopentry](https://st.suckless.org/patches/desktopentry/)
 
 ## Installation
 ```
